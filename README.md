@@ -29,6 +29,7 @@ npm run dev
 It's as simple as that!
 You can go now on [http://localhost:3000/]()
 
+![Image of Yaktocat](./example.png)
 
 ## Build Setup
 
