@@ -3,15 +3,15 @@
 
 # Paradvil
 
-##Description
+## Description
  Those softwares provide to patients (with a chart) the evolution of the concentration in their blood for the drug ‘Paradvil’. The covariate to simulate the concentratons of this drug is thehepatic status.
 
-##Link
+## Link
 
 * [Vue-chart.js](https://vue-chartjs.org/)
 * [Nuxt.js](https://fr.nuxtjs.org/)
 
-##Features
+## Features
 
 * Added dropdown that lists the various hepatic
 * Added the graph that will display the values as a function of the hepatic
