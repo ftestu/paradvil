@@ -13,9 +13,9 @@
 
 ## Features
 
-* Added dropdown that lists the various hepatic
-* Added the graph that will display the values as a function of the hepatic
-* Added button to choose between two types of graphs
+* Added a dropdown that lists the different hepatic status
+* Added a graph that displays the values obtained according to the hepatic status
+* Added two buttons to choose between a line or bar chart
 
 ## Getting started
 
